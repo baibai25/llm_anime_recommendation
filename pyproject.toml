@@ -14,9 +14,12 @@ pandas = "^2.0.2"
 numpy = "^1.25.0"
 ipykernel = "^6.23.2"
 transformers = "^4.30.2"
-gpt4all = "^0.3.4"
 kaggle = "^1.5.13"
 river = "^0.17.0"
+sentence-transformers = "^2.2.2"
+openai = "^0.27.8"
+tiktoken = "^0.4.0"
+faiss-cpu = "^1.7.4"
 
 
 [tool.poetry.group.dev.dependencies]
